@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1><big>Recipe for the best cinnamon rolls</big></h1><br>
+    <h1>Ingredients</h1>
+    <h2>For the dough</h2>
+    <ul>
+        <li>3/4 cup warm milk</li>
+        <li>2 1/4 teaspoons yeast</li>
+        <li>1/4 cup granulated sugar</li>
+        <li>1 egg plus 1 egg yolk</li>
+        <li>1/4 cup butter</li>
+        <li>3 cups bread flour</li>
+    </ul>
+    <br>
+    <h2>For the filling:</h2>
+    <ul>
+        <li>2/3 cup dark brown sugar</li>
+        <li>1 1/2 tablespoons ground cinnamon</li>
+        <li>1/4 cup butter</li>
+    </ul>
+    <br>
+    <h1>Instructions</h1>
+    <ol>
+        <li>Mix the milk with the yeast,sugar,eggs.</li>
+        <li>Melt the butter and add to the mixture.</li>
+        <li>Add in the flour and mix until combined into a dough.</li>
+        <li>knead the dough for two minutes.</li>
+        <li>Transfer the dough innto a large bowl and cover with plastic wrap.Leave it somewhere to rise for 2 hours.
+        </li>
+        <li>After the dough has doubled in size,roll it out into a large rectangle.</li>
+        <li>Melt the butter for the filling and mix in the sugar and cinnamon'</li>
+        <li> Spread the filling onto the dough then roll the dough into a swiss roll.</li>
+        <li>cut the roll into 3 cm sections and place flat into a baking tray.</li>
+        <li>Pre heat the oven to 350F or 180C,then bake the rolls for 20-25min until lightly brown.</li>
+        <hr>
+        <hr><br>
+    </ol>
+    <br>
+    <ul>
+        <li>A</li>
+        <li>B
+            <ol>
+                <li>B1</li>
+                <li>B2
+                    <ul>
+                        <li>B2a
+                            <ul>
+                                <li>B2aa</li>
+                                <li>B2ab</li>
+                            </ul>
+                        </li>
+                        <li>B2b</li>
+                        <li>B2c</li>
+                    </ul>
+                </li>
+                <li>B3
+                    <ul>
+                        <li>B31</li>
+                        <li>B32</li>
+                    </ul>
+                </li>
+            </ol>
+        </li>
+    </ul><br>
+    <hr>
+    <hr>
+    <h1><big>My top 5 Favourite Websites</big></h1><br>
+    <ol type="5">
+        <a href="https://www.producthunt.com">Product hunt</a><br>
+        <a href="https://smashthewalls.com">Smash The Walls</a><BR>
+        <a href="https://www.nytimes.com">Wordle</a><BR>
+        <a href="https://hackertyper.net">Hacker Typer</a><BR>
+        <a href="https://stellarium.org">stellarium</a>
+    </ol>
+    <hr>
+    <hr>
+    <br>
+    <h1><big>I am a Cat Person</big></h1><br>
+    <img src="C:\Users\HP\Downloads\cat.jpg.jpg" width="180"><br>
+    <h1> <big>I am a Dog Person</big></h1><br>
+    <img src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg" width="180">
+    <hr>
+    <hr>
+    <h1><big>It's My Birthday</big></h1><br>
+    <h1>On the 18th Aug</h2>
+        <img src="https://cdn.pixabay.com/photo/2023/08/23/12/22/date-of-birth-8208461_640.png" width="180"><br>
+        <h2>What to bring:</h2><br>
+        <ul>
+            <li>baloons(I love Baloons</li>
+            <li>Cake(I'm really good at eating)</li>
+            <li>An appetite(There will be lots of food</li>
+        </ul><br>
+        <h2>This is where you need to go:</h2><br>
+        <iframe src="https://g.co/kgs/TZqsH8c">google map</iframe>
+
+</body>
+
+</html>
